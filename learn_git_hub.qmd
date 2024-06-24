@@ -1,0 +1,12 @@
+---
+title: "A test document for learn github"
+author: "feels_like_summer"
+format: html
+editor: visual
+---
+
+## test for library a package
+
+```{r}
+library(tidyverse)
+```
